@@ -1,0 +1,14 @@
+project name: !!str
+JIRA key: !!str
+lifecycle stage: !!str
+automation type: !!str
+github repo: !!str 
+CI link: !!str
+PSEM: !!str
+PCA: !!str
+XO.Chat with product team: !!str
+product demo video / doc: !!str
+environments: !!str
+credentials: !!str
+automation tips: !!str
+link to automation framework: !!str

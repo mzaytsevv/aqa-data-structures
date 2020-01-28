@@ -1,0 +1,8 @@
+title: !!str
+automator name: !!str
+test type: !!str
+link to TestRails test case: !!str
+link to JIRA E2E: !!str
+link to pull request: !!str
+link to framework used: !!str
+link to executions history: !!str

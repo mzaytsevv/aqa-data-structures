@@ -1,0 +1,9 @@
+title: !!str
+project affected: !!str
+tests affected: !!seq
+  - link to the test: !!str
+    link to the test: !!str
+pass rate damage: !!str
+root cause: !!str
+fix applied: !!str
+link to pull request: !!str

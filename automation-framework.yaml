@@ -1,0 +1,7 @@
+name: !!str
+list of capabilities: !!seq
+  - capability name: !!str
+    capability description: !!str
+list of limitations: !!seq
+  limitation name: !!str
+  limitation description: !!str
